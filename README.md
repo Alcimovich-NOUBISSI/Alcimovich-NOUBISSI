@@ -1,20 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Isidore</h1>
-<h3 align="center">I'm a passionate Full Stack Web & Mobile Developer from Cameroon.</h3>
+<h1 align="center">Hello world <img src="https://user-images.githubusercontent.com/80033137/172892640-88e994d7-bb04-4bdf-bba3-442843d81896.png" width="30px">, I'm Isidore</h1>
+<h3 align="center">I'm a Full Stack Web developer / scrum and aws cloud practioner certified.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Travel Booking Website](https://github.com/Alcimovich-NOUBISSI/travel_booking)**
+- 🔭 I’m currently working on **[Travel Booking Website](https://github.com/Alcimovich-NOUBISSI/travel_booking)**.
 
-- 🌱 I’m currently training for **Blockchain Developer Certification.**
+- 🌱 I’m passionated by **blockchain development**.  
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 📫 How to reach me **alcimovichnoubissi@gmail.com**
+- 📫 How to reach out to me **alcimovichnoubissi@gmail.com**.
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -33,7 +31,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/> </a>
 </p>
 
 
