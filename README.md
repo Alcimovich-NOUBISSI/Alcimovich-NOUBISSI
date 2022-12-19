@@ -1,13 +1,13 @@
 
-<h1 align="center">Hello world <img src="https://user-images.githubusercontent.com/80033137/172892640-88e994d7-bb04-4bdf-bba3-442843d81896.png" width="30px">, I'm Isidore</h1>
-<h3 align="center">I'm a Full Stack Web developer / scrum and aws cloud practioner certified.</h3>
+<h1 align="center">Hello world <img src="https://user-images.githubusercontent.com/80033137/172892640-88e994d7-bb04-4bdf-bba3-442843d81896.png" width="30px">, I'm Isidore NOUBISSI</h1>
+<h3 align="center">I'm a Full Stack Web developer (MERN & .NET) / scrum and aws cloud practioner certified.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Travel Booking Website](https://github.com/Alcimovich-NOUBISSI/travel_booking)**.
 
-- 🌱 I’m passionated by **blockchain development**.  
+- 🌱 I’m passionated by **DevOps**.  
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
