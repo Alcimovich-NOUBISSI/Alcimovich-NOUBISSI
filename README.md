@@ -1,11 +1,13 @@
 
-<h1 align="center">Hello world <img src="https://user-images.githubusercontent.com/80033137/172892640-88e994d7-bb04-4bdf-bba3-442843d81896.png" width="30px">, I'm Isidore NOUBISSI</h1>
-<h3 align="center">I'm a Full Stack Web developer (MERN & .NET) / scrum and aws cloud practioner certified.</h3>
+<h1 align="center">Hello world <img src="https://user-images.githubusercontent.com/80033137/172892640-88e994d7-bb04-4bdf-bba3-442843d81896.png" width="30px">, I'm Alcimovich NOUBISSI</h1>
+<h3 align="center">DevOps Engineer with 4+ years of experience in tech industry with strong background in web development 
+(MERN, ASP.NET). Prior experiences include system administration (Linux, Windows Server 2012 R2). </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Travel Booking Website](https://github.com/Alcimovich-NOUBISSI/travel_booking)**.
+- 🔭 My notable certifications are: <br/>
+      **[Certified Kubernetes Administrator](https://www.credly.com/badges/139f08e4-775b-451f-b5b6-80eac6a71a55/public_url)** | **[Terraform Associate](https://www.credly.com/badges/3bcb389d-66ea-435a-af32-2374a6776146/public_url)** | **[GCP Digital Leader](https://www.credential.net/83dad027-f4dd-489c-bcc5-5e8eee020d13#acc.Qa1ZPNOi)** | **[AWS Cloud Practionner](https://www.credly.com/badges/5eda5695-7e78-4664-aae5-c769b1276eaa?source=linked_in_profile)** | **[Scrum Master](https://www.scrum-institute.org/certifications/Scrum-Institute.Org-SMAC197bb49b9c-97205010545905.pdf)**.
 
 - 🌱 I’m passionated by **DevOps**.  
 
@@ -16,23 +18,18 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+> #### DEVOPS & CLOUD
+> - GCP (Cloud Deploy, GCP Cloud Build, SQL, Postgres, Networking, IAM, Secret Manager, Bucket, CE)
+> - AWS (Cloudwatch, SES, IAM, Workmail, EC2, VPN)
+> - Azure DevOps, Jenkins
+> - Kubernetes, Helm, Kustomize, Argocd
+> - Prometheus, Grafana, Alertmanager, Slack
+> - Terraform
 
+> #### WEB DEVELOPMENT
+> - MySQL, ExpressJs, ReactJs, NodeJs
+> - C#, ASP .Net
+> - Java, Springboot 
 
 
 ## 📊 My Github Stats
@@ -47,16 +44,11 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Alcimovich-NOUBISSI/github-readme-activity-graph"><img alt="Alcimovich-NOUBISSI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alcimovich-NOUBISSI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/isidore-alcimovich-noubissi-182886218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/alcimovichN"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/alcimovichN"><img src="https://img.icons8.com/fluent/48/000000/twitterx.png"/></a>
 <a href = "https://www.instagram.com/alcimovich/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/alcimovich/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
